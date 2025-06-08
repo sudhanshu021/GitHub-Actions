@@ -1,2 +1,2 @@
 # GitHub-Actions
-A Repo to practice for git hub  sctiond certification
+A Repo to practice for git hub  actions certification
